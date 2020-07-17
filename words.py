@@ -502,7 +502,6 @@ words_list = [
 ]
 Test_list = [
     
-"writer",
-"yellow",
+"yellow"
 
 ]
